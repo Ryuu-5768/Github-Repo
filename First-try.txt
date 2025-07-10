@@ -1,0 +1,5 @@
+For the first time i have tried creating a file in github 
+the filename is called First-try.txt
+the file format is .txt format
+the date is 10-07-2025
+created the file
